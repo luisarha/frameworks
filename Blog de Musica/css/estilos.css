@@ -6,7 +6,14 @@
 .img-logo{
   width: 200px;
   margin-left: 5%;
+  margin-top: 15%;
+  margin-bottom: 2.5;
+
 }
-.tt{
-  margin-top: 25%;
+.imagenes{
+  display: flex;
+  margin-top: 9.6%;
+  margin-bottom: 2.5%;
+  margin-left: 8%;
+
 }
