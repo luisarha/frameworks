@@ -19,3 +19,22 @@
 .vacio{
   margin-bottom: 1%;
 }
+.titulo-texto{
+  margin-top: 5%;
+  font-size: 180%;
+}
+.img-contenido{
+  margin-top: 5%;
+  height: 90%;
+  width: 100%;
+}
+.img-persona{
+  width:90px;
+}
+.areatexto{
+  width: 100%;
+  margin-bottom: 2%;
+}
+.col-xs-2{
+  text-align: center;
+}
